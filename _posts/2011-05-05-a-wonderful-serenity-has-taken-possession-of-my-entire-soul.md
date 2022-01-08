@@ -1,131 +1,169 @@
 ---
-date: 2018-07-20 12:26:40
+date: 2021-02-17 12:26:40
 layout: post
-title: A wonderful serenity has taken possession of my entire soul
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
+title: Python - Criando virtualenv no Ubuntu/Debian
+subtitle: Aprenda a gerenciar projetos com virtualenv
+description: Hoje vamos aprender como criar, ativar e remover uma Virtualenv para gerenciamento de projetos em Python
+image: https://res.cloudinary.com/dlpu1d2ml/image/upload/v1641676077/enghash/Design_sem_nome_frk8sc.png
+optimized_image: https://res.cloudinary.com/dlpu1d2ml/image/upload/c_scale,w_380/v1641676077/enghash/Design_sem_nome_frk8sc.png
+
 category: code
 tags:
-  - platform
-  - javascript
-  - vscode
-author: thiagorossener
+  - python
+  - virtualenv
+  - pip
+  - linux
+  - ubuntu
+
+author: oseiasfarias
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+<div class="embad">
+<iframe width="100%" height="422" src="https://www.youtube.com/embed/Osd7hcts8RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Para que possamos dá inicio ao processo de criação é necessário ter o gerenciador de <a href="#">pacotes do python</a> instalado em seu sistema operacional. para verificar, rode o seguinte comando em seu termial:
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
-## Inline HTML elements
-
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
+```shell
+pip --version
 ```
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+Se ouver uma saída positiva mostrando endereço de algum diretório, isso significa que o pip está instalado.
+caso ocorra algum erro, tente:
 
-## Lists
+```shell
+pip3 --version
+```
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+Se nenhuma dessas duas opções funcionarem, você deve instalar o pip em seu Sistema Operacional.
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+## **Instalar o pip para o Python 2**
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+Rode o seguinte comando no seu Terminal:
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+```shell
+sudo apt install python-pip
+```
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+Verificar se foi realmente instalado.
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+```shell
+pip2 --version
+```
+A saida do comando ACIMA será algo parecido com esse:
 
-## Images
+```shell
+pip 20.2.4 from /home/user/.local/lib/python2.7/site-packages/pip (python 2.7)
+```
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+## **Instalar o pip para o Python 3**
 
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
+Rode o seguinte comando no seu Terminal:
 
-## Tables
+```shell
+sudo apt install python3-pip
+```
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+verificar se foi realmente instalado
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+```shell
+pip3 --version
+```
 
+a saida do comando assim será algo parecido com esse:
+
+```shell
+pip 21.0.1 from /home/usr/.local/lib/python3.8/site-packages/pip (python 3.8)
+```
+
+## **Instalando Virtualenv o Sistema Operacional usando o pip**
+
+Tendo verificado se o pip está instalado em seu Sistema Operacional, agora podemos continuar, a primeira coisa que devemos fazer para podemos criar uma virtualenv no Ubuntu é instalar a virtualenv, esse programa irá ser responsável por criar as “virtuais envs”.
+
+para temos acesso as funcionalidades, devemos instala-la utilizando o gerencioador de arquivos que instalamos na etapa anterior, para isso digite o seguinte código em seu terminal:
+
+
+## **Instalar virtualenv para o Python 2**
+
+Rode o seguinte código em seu terminal:
+
+```shell
+pip2 install virtualenv
+```
+Para verificar se a instalação ocorreu de forma correta, digite o seguinte comando no seu terminal:
+
+
+```shell
+virtualenv --version
+```
+
+Terá como saída no terminal a seguinte informação:
+
+
+```shell
+virtualenv 20.4.2 from /home/usr/.local/lib/python2.7/site-packages/virtualenv/\_\_init\_\_.pyc
+
+```
+
+## **Instalar virtualenv para o Python 3**
+
+Rode o seguinte código em seu terminal:
+
+```shell
+pip3 install virtualenv
+```
+
+Para verificar se a instalação ocorreu de forma correta, digite o seguinte comando no seu terminal:
+
+```shell
+virtualenv --version
+```
+Terá como saída no terminal a seguinte informação:
+
+```shell
+virtualenv 20.0.28 from /home/usr/.local/lib/python3.8/site-packages/virtualenv/\_\_init\_\_.py
+```
+
+## **Criando uma Virtualenv**
+
+Para criar uma virtualenv é muito fácil, basta ir para o diretório do projeto que você deseja criar a virtualenv e roda o seguinte comando no seu terminal:
+
+
+```shell
+virtualenv <Nome>
+```
+
+"nome" é o nome que você deseja dá a sua virtualenv, normalmente se coloca env.
+
+Espere o processo de criação termionar, e você terá a sua primeira virtualenv, depois de rodado o código acima, você irá ver no diretório do seu projeto uma nova pasta com o nome que você colocou em sua virtualenv.
+
+Até esse nomento nós apenas criamos a virtualenv, no entanto, para podemos utilizala devemos ativa-la, para isso demos correr o seguinte código no termial, abra um terminal na pasta do projeto, e rode:
+
+```shell
+ source nome-da-virtualenv/bin/activacte
+```
+
+Pronto, agora você tem sua virtualenv ativada e pronta para ser utilizada em seu projeto, agora todo pacote/lib/módulo que você instalar utilizando o pip irá ser instalado em sua virtalenv e estará disponível para esse projeto em explecifico.
+
+Lembrando que caso você feche o terminal, e volte para dá continuidade em seu projeto você deve ativar sua virtualenv novamente seguindo o passo anterior.
+
+## **Desativando e removendo Virtualenv**
+
+caso você não deseje mais utilizar uma env, voçê pode desativar ou remove-la/deletar-la. Para desativa-lá basta fechar o terminal ou digitar no terminal o seguinte copmando:
+
+```shell
+deactivate
+```
+
+Caso você deseje remove-lá para sempre, digite o seguinte comando no terminal, dentro do diretório do projeto:
+
+```shell
+rm -r nome-da-virtualenv
+```
+
+Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…
 
 
 

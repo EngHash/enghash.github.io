@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/oseiasfarias.png
+photo: /assets/img/uploads/oseiasfarias.jpg
 name: oseiasfarias
 display_name: Oséias Farias
 position: Chief Editor

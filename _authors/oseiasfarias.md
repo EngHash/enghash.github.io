@@ -8,7 +8,7 @@ bio: Electrical Engineering Student | Machine Learning | Deep Learning | Python 
 github_username: oseiasdfarias
 # facebook_username: thiagorossener
 twitter_username: oseiasdfarias
-instagram_username: thiagorossener
+# instagram_username: thiagorossener
 linkedin_username: oseiasfarias
 medium_username: oseiasfarias
 ---

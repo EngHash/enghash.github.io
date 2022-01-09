@@ -31,9 +31,6 @@ Para fica mais organizado, vamos criar uma pasta para o nosso projeto teste, par
 mkdir teste
 ```
 
-
-    mkdir teste
-
 Com isso você terá uma nova pasta como o nome de teste.
 
 ## **Acesse a pasta**

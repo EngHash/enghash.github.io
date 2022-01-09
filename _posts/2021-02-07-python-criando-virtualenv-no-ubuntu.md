@@ -18,6 +18,8 @@ tags:
 author: oseiasfarias
 ---
 
+Assista a explicação completa em nosso Canal no YouTube:
+
 <div class="embad">
 <iframe width="100%" height="422" src="https://www.youtube.com/embed/Osd7hcts8RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

@@ -23,7 +23,7 @@ email: oseias.dfarias@gmail.com
 disqus_username: entertech-1
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id:
 
 
 # Social Media Settings

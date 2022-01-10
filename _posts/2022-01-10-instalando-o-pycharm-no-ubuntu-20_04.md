@@ -60,8 +60,19 @@ OU
 pycharm-educational
 ```
 
-Caso ocorra algum problema na inicialização, execute o seguinte comando no terminal:
+## **Solução de problemas**
 
+Caso você receba a seguinte mensagem de erro durante o carregamento do PyCharm:
+
+```shell
+ModuleNotFoundError: No module named 'distutils.core'
+```
+
+Execute o seguinte comando no terminal:
+
+```shell
+sudo apt-get install python3-distutils
+```
 
 Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…
 

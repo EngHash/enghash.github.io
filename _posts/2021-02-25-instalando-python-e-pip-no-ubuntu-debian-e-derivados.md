@@ -1,5 +1,5 @@
 ---
-date: 2021-02-25 12:26:40
+date: 2021-02-25 15:42:40
 layout: post
 title: Instalando Python e Pip no Ubuntu, Debian e seus Derivados
 subtitle: Instalando o Python e PIP no Ecossistema Linux.
@@ -20,7 +20,7 @@ author: oseiasfarias
 Para roda seus scripts python no Debian ou Ubuntu e seus derivados é preciso ter o python instalado em sua máquina, nas versões mais atuais do ubuntu o python já vem instalado por padrão. caso ele não esteja instalado por algum motivo, siga os passos a seguir para instala-lo.
 
 <div class="embad">
-<iframe width="100%" height="422" src="https://www.youtube.com/embed/CGf-l0ElRFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="440" src="https://www.youtube.com/embed/CGf-l0ElRFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 para instalar o python é muito simples, basta abrir o terminal do Ubuntu ou Debian e digitar o comando abaixo.
@@ -58,7 +58,6 @@ sudo apt install python3-pip
 agora vamos rodar seu primeiro programa no seu terminal, para isso siga os passos a seguir.
 
 1° Abra seu termial
-
 2° digite o seguinte comando no seu terminal
 
 ```shell
@@ -75,13 +74,6 @@ print("Hello World!!!")
 
 Quando você apertar ENTER no seu teclado, terá como resultado o “Hello World” printado logo abaixo, nesse momento você já executol um código python em seu Ubuntu/Debian.
 
-
 Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…
-
-
-
-
-
-
 
 

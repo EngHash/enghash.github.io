@@ -21,7 +21,7 @@ author: oseiasfarias
 Vídeo Tutorial no nosso Canal no YouTube:
 
 <div class="embad">
-    <iframe width="100%" height="422" src="https://www.youtube.com/embed/XACgnZ5t3DY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="440" src="https://www.youtube.com/embed/XACgnZ5t3DY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -98,11 +98,5 @@ sudo rm Python-3.10.0.tar.xz
 ```
 
 Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…
-
-
-
-
-
-
 
 

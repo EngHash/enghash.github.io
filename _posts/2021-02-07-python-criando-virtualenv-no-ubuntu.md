@@ -1,5 +1,5 @@
 ---
-date: 2021-02-17 12:26:40
+date: 2021-02-17 13:46:40
 layout: post
 title: Python - Criando virtualenv no Ubuntu/Debian
 subtitle: Aprenda a gerenciar projetos com virtualenv
@@ -21,11 +21,10 @@ author: oseiasfarias
 Assista a explicação completa em nosso Canal no YouTube:
 
 <div class="embad">
-<iframe width="100%" height="422" src="https://www.youtube.com/embed/Osd7hcts8RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="440" src="https://www.youtube.com/embed/Osd7hcts8RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Para que possamos dá inicio ao processo de criação é necessário ter o gerenciador de <a href="#">pacotes do python</a> instalado em seu sistema operacional. para verificar, rode o seguinte comando em seu termial:
-
 
 ```shell
 pip --version
@@ -122,6 +121,7 @@ Para verificar se a instalação ocorreu de forma correta, digite o seguinte com
 ```shell
 virtualenv --version
 ```
+
 Terá como saída no terminal a seguinte informação:
 
 ```shell
@@ -131,7 +131,6 @@ virtualenv 20.0.28 from /home/usr/.local/lib/python3.8/site-packages/virtualenv/
 ## **Criando uma Virtualenv**
 
 Para criar uma virtualenv é muito fácil, basta ir para o diretório do projeto que você deseja criar a virtualenv e roda o seguinte comando no seu terminal:
-
 
 ```shell
 virtualenv <Nome>
@@ -166,12 +165,5 @@ rm -r nome-da-virtualenv
 ```
 
 Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…
-
-
-
-
-
-
-
 
 

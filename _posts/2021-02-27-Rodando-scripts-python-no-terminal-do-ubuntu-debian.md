@@ -20,7 +20,7 @@ author: oseiasfarias
 O Python é uma linguagem de programação muito famosa e por isso muito utilizada em diversas áreas da tecnologia, desde desenvolvimento web até em Inteligencia Artificial. Hoje vamos aprender como roda scripts python no terminal do Ubuntu ou no Debian e seus derivados.
 
 <div class="embad">
-    <iframe width="100%" height="422" src="https://www.youtube.com/embed/SJUwHDc59yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="440" src="https://www.youtube.com/embed/SJUwHDc59yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## **Crie uma pasta teste**
@@ -126,11 +126,6 @@ chmod +x main.py
 Como das outras vezes seu script irá roda.
 
 Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…
-
-
-
-
-
 
 
 

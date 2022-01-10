@@ -46,6 +46,7 @@ sudo snap install pycharm-educational --classic
 ```
 
 ### **Passo 2:**
+
 Após a instalação terminar, abra o Pycharn executando o seguinte comando no terminal:
 
 ```shell
@@ -75,11 +76,6 @@ sudo apt-get install python3-distutils
 ```
 
 Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…
-
-
-
-
-
 
 
 

@@ -17,3 +17,13 @@ Esse é o vídeo de introdução ao curso de Python para iniciantes nessa lingua
 O objetivo desse curso é dá uma introdução ao Python com exemplos práticos de usando a IDE Pycharm.</p>
 
 <iframe width="100%" height="440" src="https://www.youtube.com/embed/v2Tnv897x40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2 align="center" > <strong>Aula 02 - Python para Iniciantes - Comentando o seu Código</strong></h2>
+
+<p align="center">
+
+ Nessa video-aula veremos a importância de um código bem comentado, de modo a torna-lo um código interpretável por outros programadores. 
+
+</p>
+
+<iframe width="100%" height="440" src="https://www.youtube.com/embed/p_UbPCQULNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

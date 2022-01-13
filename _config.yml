@@ -12,6 +12,8 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Curso - Python Iniciantes
+    url: /python-iniciantes
   - title: Sobre
     url: /about
   - title: Contato

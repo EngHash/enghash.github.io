@@ -7,12 +7,13 @@ permalink: /python-iniciantes/
 
 <img class="img-rounded" src="../assets/img/pages/banner_cpi.gif" alt="Thiago Rossener" width="100%">
 
-# **Curso de Python Para Iniciantes**
+<h1 align="center" > <strong>Curso de Python Para Iniciantes</strong></h1>
 
-## **Aula 01 - Python para Iniciantes | Configurando o Ambiente de Estudos**
+<h2 align="center" > <strong>Aula 01 - Python para Iniciantes - Configurando o Ambiente de Estudos</strong></h2>
 
 
+<p align="center">
 Esse é o vídeo de introdução ao curso de Python para iniciantes nessa linguagem que atualmente é muito utilizada para diversos seguimentos da computação.
-O objetivo desse curso é dá uma introdução ao Python com exemplos práticos de usando a IDE Pycharm.
+O objetivo desse curso é dá uma introdução ao Python com exemplos práticos de usando a IDE Pycharm.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v2Tnv897x40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="440" src="https://www.youtube.com/embed/v2Tnv897x40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -9,7 +9,7 @@ permalink: /python-iniciantes/
 
 <h1 align="center" > <strong>Curso de Python Para Iniciantes</strong></h1>
 
-<h3> <strong>Aula 01 - Python para Iniciantes - Configurando o Ambiente de Estudos</strong></h3>
+<h3> <strong>Aula 01: Python para Iniciantes - Configurando o Ambiente de Estudos</strong></h3>
 
 
 <p>
@@ -18,7 +18,7 @@ O objetivo desse curso é dá uma introdução ao Python com exemplos práticos 
 
 <iframe width="100%" height="430" src="https://www.youtube.com/embed/v2Tnv897x40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3> <strong>Aula 02 - Python para Iniciantes - Comentando o seu Código</strong></h3>
+<h3> <strong>Aula 02: Python para Iniciantes - Comentando o seu Código</strong></h3>
 
 <p>
 
@@ -28,7 +28,7 @@ O objetivo desse curso é dá uma introdução ao Python com exemplos práticos 
 
 <iframe width="100%" height="430" src="https://www.youtube.com/embed/p_UbPCQULNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3> <strong>Aula 03 - Python para Iniciantes - função print() </strong></h3>
+<h3> <strong>Aula 03: Python para Iniciantes - função print() </strong></h3>
 
 <p>
 
@@ -39,7 +39,7 @@ O objetivo desse curso é dá uma introdução ao Python com exemplos práticos 
 <iframe width="100%" height="430" src="https://www.youtube.com/embed/2ja5Mm3I8xQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<h3> <strong>Aula 04 (Parte 1) - Python para Iniciantes - string em Python </strong></h3>
+<h3> <strong>Aula 04 (Parte 1): Python para Iniciantes - string em Python </strong></h3>
 
 <p>
 
@@ -49,7 +49,7 @@ O objetivo desse curso é dá uma introdução ao Python com exemplos práticos 
 
 <iframe width="100%" height="430" src="https://www.youtube.com/embed/yYt7k3VBw0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3> <strong>Aula 04 (Parte 2) - Python para Iniciantes - string em Python </strong></h3>
+<h3> <strong>Aula 04 (Parte 2): Python para Iniciantes - string em Python </strong></h3>
 
 <p>
 
@@ -59,7 +59,7 @@ O objetivo desse curso é dá uma introdução ao Python com exemplos práticos 
 
 <iframe width="100%" height="430" src="https://www.youtube.com/embed/kpfhxT6aJsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3> <strong>Aula 05 - Python para Iniciantes - Tipos de Dados Primitivos em Python</strong></h3>
+<h3> <strong>Aula 05: Python para Iniciantes - Tipos de Dados Primitivos em Python</strong></h3>
 
 <p>
 
@@ -69,7 +69,7 @@ O objetivo desse curso é dá uma introdução ao Python com exemplos práticos 
 
 <iframe width="100%" height="430" src="https://www.youtube.com/embed/FAfha7WSiPk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3> <strong>Aula 06 - Python para Iniciantes - Operações Aritméticas com Python</strong></h3>
+<h3> <strong>Aula 06: Python para Iniciantes - Operações Aritméticas com Python</strong></h3>
 
 <p>
 

@@ -77,5 +77,15 @@ O objetivo desse curso é dá uma introdução ao Python com exemplos práticos 
 
 </p>
 
-<iframe width="100%" height="440" src="https://www.youtube.com/embed/_f_sWve1fwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="435" src="https://www.youtube.com/embed/_f_sWve1fwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3> <strong>Aula 06 (Parte 1): Python para Iniciantes - Precedências de Operadores Aritméticos em Python</strong></h2>
+
+<p>
+
+ Nessa vídeo-aula iremos estudar sobre as precedências dos operadores aritméticos em Python e suas notações.
+
+</p>
+
+<iframe width="100%" height="435" src="https://www.youtube.com/embed/yEiNLKBDmts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

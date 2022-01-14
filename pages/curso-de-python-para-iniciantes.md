@@ -5,8 +5,6 @@ description: Aprenda programação com Python com o nosso curso gratuito - Pytho
 permalink: /python-iniciantes/
 ---
 
-<img src="../assets/img/pages/banner_01.png" alt="Curso de Python Para Iniciantes">
-
 <h1 align="center" > <strong>Curso de Python Para Iniciantes</strong></h1>
 
 <h3> <strong>Aula 01: Python para Iniciantes - Configurando o Ambiente de Estudos</strong></h3>
@@ -87,5 +85,16 @@ O objetivo desse curso é dá uma introdução ao Python com exemplos práticos 
 
 </p>
 
-<iframe width="100%" height="430" src="https://www.youtube.com/embed/yEiNLKBDmts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/eOWlia3XZP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h3> <strong>Aula 07 (Parte 1): Python para Iniciantes - Precedências de Operadores Aritméticos em Python</strong></h3>
+
+<p>
+
+ Nessa video-aula iremos dar continuidade ao tema das precedências dos operadores aritméticos em Python e suas notações.
+
+</p>
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/v41edJHX2Sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

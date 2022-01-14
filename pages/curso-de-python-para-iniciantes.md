@@ -79,7 +79,7 @@ O objetivo desse curso é dá uma introdução ao Python com exemplos práticos 
 
 <iframe width="100%" height="430" src="https://www.youtube.com/embed/_f_sWve1fwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3> <strong>Aula 06 (Parte 1): Python para Iniciantes - Precedências de Operadores Aritméticos em Python</strong></h3>
+<h3> <strong>Aula 07 (Parte 1): Python para Iniciantes - Precedências de Operadores Aritméticos em Python</strong></h3>
 
 <p>
 

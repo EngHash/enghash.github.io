@@ -38,8 +38,40 @@ print(objeto(s), sep=separador, end=fim, file=arquivo)
 
 #### **Explicação dos Parâmetros**
 
+<table>
+  <thead>
+    <tr>
+      <th>Parâmetro</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Objeto</td>
+      <td>Qualquer objeto, e quantos você quiser. Será convertido em string antes de ser impresso.
+      </td>
+    </tr>
+    <tr>
+      <td>sep=separador</td>
+      <td>Opcional. Especifique como separar os objetos, se houver mais de um. O padrão é ' '.
+      </td>
+    </tr>
+    <tr>
+      <td>end='end'</td>
+      <td>Opcional. Especifique o que imprimir no final. O padrão é '\n' (alimentação de linha).
+      </td>
+    </tr>
+    <tr>
+      <td>Arquivo</td>
+      <td>Opcional. Um objeto com um método de gravação. O padrão é sys.stdout.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### **Parametro end= da **
+
+
+
 
 Após a instalação terminar, abra o Pycharn executando o seguinte comando no terminal:
 

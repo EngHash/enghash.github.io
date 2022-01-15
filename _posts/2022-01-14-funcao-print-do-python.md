@@ -49,22 +49,22 @@ print(objeto(s), sep=separador, end=fim, file=arquivo)
   <tbody>
     <tr>
       <td>Objeto</td>
-      <td><span style="color:Linen">Qualquer objeto, e quantos você quiser. Será convertido em string antes de ser impresso.</span>
+      <td>Qualquer objeto, e quantos você quiser. Será convertido em string antes de ser impresso.
       </td>
     </tr>
     <tr>
       <td>sep=separador</td>
-      <td><span style="color:Linen">Opcional. Especifique como separar os objetos, se houver mais de um. O padrão é ' '.</span>
+      <td>Opcional. Especifique como separar os objetos, se houver mais de um. O padrão é ' '.
       </td>
     </tr>
     <tr>
       <td>end='end'</td>
-      <td><span style="color:Linen">Opcional. Especifique o que imprimir no final. O padrão é '\n' (quebra de linha).</span>
+      <td>Opcional. Especifique o que imprimir no final. O padrão é '\n' (quebra de linha).
       </td>
     </tr>
     <tr>
       <td>Arquivo</td>
-      <td><span style="color:Linen">Opcional. Um objeto com um método de gravação. O padrão é sys.stdout.</span>
+      <td>Opcional. Um objeto com um método de gravação. O padrão é sys.stdout.
       </td>
     </tr>
   </tbody>

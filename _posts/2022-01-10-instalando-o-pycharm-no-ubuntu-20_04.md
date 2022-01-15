@@ -22,7 +22,6 @@ Aprenda a programar com Python:
 
 <iframe width="100%" height="440" src="https://www.youtube.com/embed/videoseries?list=PL5jigOsyxDtCGEdY1I0Ymmv4lOyUkWbm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 O Pycharm é um ambiente de desenvolvimento integrado projetado para facilitar a vida dos programadores Python. PyCharm porque ele pode ser usado para analisar código, depurar programas e é integrado com Git e outros sistemas de controle de versão, bem como aplicativos de desenvolvimento web.
 
 Para instala-lo em seu Ubuntu, siga as etapas a seguir:

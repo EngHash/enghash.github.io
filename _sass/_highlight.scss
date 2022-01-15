@@ -34,6 +34,8 @@ pre {
   padding-right: 22%;
 
   @include media(">=sm") {
+    padding-left: 1%;
+  padding-right: 1%;
     word-wrap: break-word;
     margin: rem(29px) 0;
   }

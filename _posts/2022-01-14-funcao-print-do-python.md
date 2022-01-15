@@ -48,7 +48,7 @@ print(objeto(s), sep=separador, end=fim, file=arquivo)
   <tbody>
     <tr>
       <td>Objeto</td>
-      <td background-color: #E7E9EB;>Qualquer objeto, e quantos você quiser. Será convertido em string antes de ser impresso.
+      <td>Qualquer objeto, e quantos você quiser. Será convertido em string antes de ser impresso.
       </td>
     </tr>
     <tr>

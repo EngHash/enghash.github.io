@@ -251,8 +251,9 @@
       padding: 0 rem(30px);
     }
 
+    /* font-size: rem(17px) */
     p {
-      font-size: rem(17px);
+      font-size: rem(15px);
       color: rgba(0, 0, 0, 0.6);
       margin: 0;
       @include media(">=sm") {

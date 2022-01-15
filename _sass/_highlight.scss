@@ -29,6 +29,9 @@ pre {
 
 .highlight {
   margin: rem(20px) 0;
+
+  padding-left: 30px;
+  padding-right: 30px;
   
   @include media(">=sm") {
     word-wrap: break-word;

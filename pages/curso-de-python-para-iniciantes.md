@@ -98,3 +98,10 @@ O objetivo desse curso é dá uma introdução ao Python com exemplos práticos 
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/v41edJHX2Sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<h3> <strong>Aula 08: Python para Iniciantes - Variáveis em Python </strong></h3>
+
+<p>
+ Nessa vídeo-aula iremos estudar  sobre como usar variáveis em Python.
+</p>
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/zy32U-7mfw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

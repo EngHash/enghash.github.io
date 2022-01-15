@@ -25,7 +25,7 @@ O Python é uma linguagem que está em alta por ser muito simples de se aprender
 
 Hoje vamos aprender a usar a função `print()` para mostrar dados no console e tornar um script python muito mais interesante de se usar ao interagir com o usuário.
 
-### **Saída de dados com a Função `print()`**
+### **Saída de dados com a Função <span style="color:SpringGreen">print()</span>**
 
 print() é a função do python usada para imprimir dados no console.
 

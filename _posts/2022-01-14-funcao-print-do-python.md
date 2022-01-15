@@ -38,6 +38,7 @@ print(objeto(s), sep=separador, end=fim, file=arquivo)
 
 #### **Explicação dos Parâmetros**
 
+<div>
 <table>
   <thead>
     <tr>
@@ -68,6 +69,7 @@ print(objeto(s), sep=separador, end=fim, file=arquivo)
     </tr>
   </tbody>
 </table>
+</div>
 
 ### **Exemplos**
 

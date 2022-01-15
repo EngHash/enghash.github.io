@@ -70,37 +70,6 @@ print(objeto(s), sep=separador, end=fim, file=arquivo)
 </table>
 
 
-
-
-
-Após a instalação terminar, abra o Pycharn executando o seguinte comando no terminal:
-
-```shell
-pycharm-community
-
-OU
-
-pycharm-professional
-
-OU
-
-pycharm-educational
-```
-
-## **Solução de problemas**
-
-Caso você receba a seguinte mensagem de erro durante o carregamento do PyCharm:
-
-```shell
-ModuleNotFoundError: No module named 'distutils.core'
-```
-
-Execute o seguinte comando no terminal:
-
-```shell
-sudo apt-get install python3-distutils
-```
-
 Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…
 
 

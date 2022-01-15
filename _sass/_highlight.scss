@@ -30,12 +30,7 @@ pre {
 .highlight {
   margin: rem(20px) 0;
 
-  padding-left: 22%;
-  padding-right: 22%;
-
   @include media(">=sm") {
-    padding-left: 1%;
-  padding-right: 1%;
     word-wrap: break-word;
     margin: rem(29px) 0;
   }

@@ -186,6 +186,7 @@
   h5,
   h6 {
     @include mainFont(700);
+    color: #282a36;
     margin-top: 0;
     padding-top: rem(50px);
 

@@ -4,8 +4,8 @@ layout: post
 title: Função print() do Python
 subtitle: Como usar a função print do python
 description: Nesse pequeno Tutorial iremos aprender a usar a função print() do python para mostrar no console dados.
-image: https://res.cloudinary.com/dlpu1d2ml/image/upload/v1642214909/enghash/print2_dwpl2a.png
-optimized_image: https://res.cloudinary.com/dlpu1d2ml/image/upload/c_scale,w_380/v1642214909/enghash/print2_dwpl2a.png
+image: https://res.cloudinary.com/dlpu1d2ml/image/upload/v1642218280/enghash/print_ng7mjz.png
+optimized_image: https://res.cloudinary.com/dlpu1d2ml/image/upload/c_scale,w_380/v1642218280/enghash/print_ng7mjz.png
 
 
 category: python

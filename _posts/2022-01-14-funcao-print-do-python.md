@@ -95,7 +95,9 @@ with open('arquivo.txt', 'w') as arquivo:
 
 #### **Saída:**
 
+<div>
 <img src="../assets/img/posts_img/runpy.png">
+</div>
 
 <br>
 

@@ -93,6 +93,11 @@ with open('arquivo.txt', 'w') as arquivo:
     print("Esse outro texto, também será escrito no arquivo txt", file=arquivo)
 ```
 
+#### **Saída:**
+
+<img src="../assets/img/posts_img/runpy.png">
+
+<br>
 
 Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…
 

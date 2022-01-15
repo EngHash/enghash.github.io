@@ -125,6 +125,7 @@ chmod +x main.py
 
 Como das outras vezes seu script irá roda.
 
+
 Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…
 
 

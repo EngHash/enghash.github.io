@@ -7,7 +7,6 @@ description: Nesse pequeno Tutorial iremos aprender a instalar de maneira fácil
 image: https://res.cloudinary.com/dlpu1d2ml/image/upload/v1641828896/enghash/pycharm_u9lrc1.png
 optimized_image: https://res.cloudinary.com/dlpu1d2ml/image/upload/c_scale,w_380/v1641828896/enghash/pycharm_u9lrc1.png
 
-
 category: python
 tags:
   - python

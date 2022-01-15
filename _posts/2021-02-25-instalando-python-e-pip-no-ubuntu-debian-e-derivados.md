@@ -74,6 +74,7 @@ print("Hello World!!!")
 
 Quando você apertar ENTER no seu teclado, terá como resultado o “Hello World” printado logo abaixo, nesse momento você já executol um código python em seu Ubuntu/Debian.
 
+
 Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…
 
 

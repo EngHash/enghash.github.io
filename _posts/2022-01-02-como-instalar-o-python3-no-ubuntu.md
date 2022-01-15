@@ -7,7 +7,6 @@ description: Nessa postagem vamos aprender a instalar o Python3.10 no Ubuntu e s
 image: https://res.cloudinary.com/dlpu1d2ml/image/upload/v1641740760/enghash/run_python3_vr5gf9.png
 optimized_image: https://res.cloudinary.com/dlpu1d2ml/image/upload/c_scale,w_380/v1641740760/enghash/run_python3_vr5gf9.png
 
-
 category: code
 tags:
   - python

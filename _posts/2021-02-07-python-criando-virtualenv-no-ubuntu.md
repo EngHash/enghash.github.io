@@ -164,6 +164,7 @@ Caso você deseje remove-lá para sempre, digite o seguinte comando no terminal,
 rm -r nome-da-virtualenv
 ```
 
+
 Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…
 
 

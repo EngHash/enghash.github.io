@@ -71,31 +71,20 @@ print(objeto(s), sep=separador, end=fim, file=arquivo)
 
 ### **Exemplos**
 
-#### **Printando String**
-
 ```python
+# Printando String
 print("Olá mundo!")
-```
 
-#### **Printando um Cálculo Matemático**
-
-```python
+# Printando um Cálculo Matemático
 print("A soma 2+3 = ", 2+3)
-```
 
-#### **Printando várias String Separadas por ---**
-
-```python
+# Printando várias String Separadas por ---
 print("como", "vai", "você?", sep="---")
-```
 
-#### **Printando uma Lista Python ---**
-
-```python
+# Printando uma Lista Python
 lista = ["pipoca", "laranja", "banana", "manga"]
 print(lista)
 ```
-
 
 Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…
 

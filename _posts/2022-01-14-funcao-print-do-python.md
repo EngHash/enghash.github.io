@@ -48,7 +48,7 @@ print(objeto(s), sep=separador, end=fim, file=arquivo)
   <tbody>
     <tr>
       <td>Objeto</td>
-      <td>Qualquer objeto, e quantos você quiser. Será convertido em string antes de ser impresso.
+      <td background-color: #E7E9EB;>Qualquer objeto, e quantos você quiser. Será convertido em string antes de ser impresso.
       </td>
     </tr>
     <tr>
@@ -58,7 +58,7 @@ print(objeto(s), sep=separador, end=fim, file=arquivo)
     </tr>
     <tr>
       <td>end='end'</td>
-      <td>Opcional. Especifique o que imprimir no final. O padrão é '\n' (alimentação de linha).
+      <td>Opcional. Especifique o que imprimir no final. O padrão é '\n' (quebra de linha).
       </td>
     </tr>
     <tr>
@@ -68,6 +68,33 @@ print(objeto(s), sep=separador, end=fim, file=arquivo)
     </tr>
   </tbody>
 </table>
+
+### **Exemplos**
+
+#### **Printando String**
+
+```python
+print("Olá mundo!")
+```
+
+#### **Printando um Cálculo Matemático**
+
+```python
+print("A soma 2+3 = ", 2+3)
+```
+
+#### **Printando várias String Separadas por ---**
+
+```python
+print("como", "vai", "você?", sep="---")
+```
+
+#### **Printando uma Lista Python ---**
+
+```python
+lista = ["pipoca", "laranja", "banana", "manga"]
+print(lista)
+```
 
 
 Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…

@@ -1,9 +1,9 @@
 ---
 date: 2022-01-10 12:36:40
 layout: post
-title: Como Instalar o Pycharm no Ubuntu 20.04
-subtitle: Instalando o Pycharm facilmente no Ubuntu 20.04
-description: Nesse pequeno Tutorial iremos aprender a instalar de maneira fácil o Pycharm no Ubuntu 20.04.
+title: Função print() do Python
+subtitle: Como usar a função print do python
+description: Nesse pequeno Tutorial iremos aprender a usar a função print() do python para mostrar no console dados.
 image: https://res.cloudinary.com/dlpu1d2ml/image/upload/v1641828896/enghash/pycharm_u9lrc1.png
 optimized_image: https://res.cloudinary.com/dlpu1d2ml/image/upload/c_scale,w_380/v1641828896/enghash/pycharm_u9lrc1.png
 
@@ -12,8 +12,6 @@ category: python
 tags:
   - python
   - pycharm
-  - linux
-  - ubuntu
 
 author: oseiasfarias
 ---
@@ -23,9 +21,9 @@ Aprenda a programar com Python:
 <iframe width="100%" height="440" src="https://www.youtube.com/embed/videoseries?list=PL5jigOsyxDtCGEdY1I0Ymmv4lOyUkWbm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-O Pycharm é um ambiente de desenvolvimento integrado projetado para facilitar a vida dos programadores Python. PyCharm porque ele pode ser usado para analisar código, depurar programas e é integrado com Git e outros sistemas de controle de versão, bem como aplicativos de desenvolvimento web.
+O Python é uma linguagem que está em alta por ser muito simples de se aprender, além disso, possue uma comunidade de desenvolvedores muito ativa que torna Python uma execelente linguagem para programadores iniciantes.
 
-Para instala-lo em seu Ubuntu, siga as etapas a seguir:
+Hoje vamos aprender a usar a função print() para mostrar dados no console e tornar um script python muito mais interesante de se usar ao interagir com o usuário.
 
 ### **Passo 1:**
 

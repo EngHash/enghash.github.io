@@ -73,6 +73,8 @@ print(objeto(s), sep=separador, end=fim, file=arquivo)
 
 ### **Exemplos**
 
+<div>
+
 ```python
 # Printando String
 print("Olá mundo!")
@@ -93,6 +95,7 @@ with open('arquivo.txt', 'w') as arquivo:
     print("Esse outro texto, também será escrito no arquivo txt", file=arquivo)
 ```
 
+</div>
 
 Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…
 

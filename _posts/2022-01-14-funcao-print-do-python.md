@@ -23,27 +23,23 @@ Aprenda a programar com Python:
 
 O Python é uma linguagem que está em alta por ser muito simples de se aprender, além disso, possue uma comunidade de desenvolvedores muito ativa que torna Python uma execelente linguagem para programadores iniciantes.
 
-Hoje vamos aprender a usar a função print() para mostrar dados no console e tornar um script python muito mais interesante de se usar ao interagir com o usuário.
+Hoje vamos aprender a usar a função `print()` para mostrar dados no console e tornar um script python muito mais interesante de se usar ao interagir com o usuário.
 
 ### **Saída de dados com a Função `print()`**
 
-Abra seu terminal e digite o comando:
+print() é a função do python usada para imprimir dados no console.
 
-Obs: a versão *pycharm-professional* é paga!.
 
-```shell
-sudo snap install pycharm-community --classic
+#### **sintax**
 
-OU
-
-sudo snap install pycharm-professional --classic
-
-OU
-
-sudo snap install pycharm-educational --classic
+```python
+print(objeto(s), sep=separador, end=fim, file=arquivo)
 ```
 
-### **Passo 2:**
+#### **Explicação dos Parâmetros**
+
+
+### **Parametro end= da **
 
 Após a instalação terminar, abra o Pycharn executando o seguinte comando no terminal:
 

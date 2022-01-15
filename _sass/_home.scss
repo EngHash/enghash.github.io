@@ -49,10 +49,10 @@
   @for $n from 2 through $maxItemsPerRow {
     $resolution: (2 * $rowMargin) + ($n * $itemMinWidth);
     @include media(">=#{$resolution}") {
-      max-width: 95%;
+      max-width: calc(100%/#{$n} - #{$itemMargin * 2});
     }
   }
-  /* max-width: calc(100%/#{$n} - #{$itemMargin * 2});*/
+
 
   // Note 2: This sets the maximum number of box items per row.
   @include media(">=#{(2 * $rowMargin) + ($maxItemsPerRow * $itemMinWidth)}") {

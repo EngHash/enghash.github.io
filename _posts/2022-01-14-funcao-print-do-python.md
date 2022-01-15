@@ -84,6 +84,11 @@ print("como", "vai", "você?", sep="---")
 # Printando uma Lista Python
 lista = ["pipoca", "laranja", "banana", "manga"]
 print(lista)
+
+# Utilizando print para gravar dados em arquivos
+with open('arquivo.txt', 'w') as arquivo:
+    print("Esse texto irá ser escrito em um Arquivo txt,", file=arquivo)
+    print("Esse outro texto, também será escrito no arquivo txt", file=arquivo)
 ```
 
 Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas. Até o próximo post…

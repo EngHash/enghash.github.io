@@ -80,7 +80,7 @@ print(frase)
 </div>
 
 
-## **Outras Caracteristicas de Strings**
+## **Outras Características das Strings**
 
 
 ### **Exemplos**

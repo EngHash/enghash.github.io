@@ -51,7 +51,9 @@ Caso você tenha um texto grande e queira usá-lo como uma string, você pode us
 
 ```python
 frase = """
-Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+Python é uma linguagem de programação de alto nível,
+interpretada de script, imperativa, orientada a 
+objetos, funcional, de tipagem dinâmica e forte.
 """
 print(frase)
 ```
@@ -65,7 +67,9 @@ Ou ainda, por três aspas simples <span style="color:MediumSeaGreen">'''Olá Mun
 
 ```python
 frase = '''
-Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+Python é uma linguagem de programação de alto nível,
+interpretada de script, imperativa, orientada a 
+objetos, funcional, de tipagem dinâmica e forte.
 '''
 print(frase)
 ```

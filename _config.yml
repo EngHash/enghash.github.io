@@ -33,7 +33,7 @@ formspree_form_id:
 github_username: EngHash
 # facebook_username: facebook_username
 # twitter_username: twitter_username
-# instagram_username: instagram_username
+instagram_username: _enghash
 # linkedin_username: linkedin_username
 # medium_username: medium_username
 
@@ -42,7 +42,7 @@ github_username: EngHash
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
-two_columns_layout: true
+two_columns_layout: false
 
 
 # Advanced Settings

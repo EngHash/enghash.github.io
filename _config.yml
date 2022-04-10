@@ -1,7 +1,7 @@
 # Site Settings
-name: Lambda Hash
-title: Lambda Hash | Programando a Engenharia
-description: O Lambda Hash é um blog sobre programação e engenharia
+name: HashTech
+title: HashTch | Aqui nós falomos sobre Python
+description: HashTech é um blog que busca difundir o conhecimento para todos
 tags:
   - blog
   - template
@@ -30,10 +30,10 @@ formspree_form_id:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: lambdahash
+github_username: hashtechh
 # facebook_username: facebook_username
 # twitter_username: twitter_username
-instagram_username: LambdaHash
+instagram_username: hashtech2
 # linkedin_username: linkedin_username
 # medium_username: medium_username
 

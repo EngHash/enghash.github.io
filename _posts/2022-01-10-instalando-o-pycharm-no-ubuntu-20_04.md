@@ -2,7 +2,7 @@
 date: 2022-01-10 12:36:40
 layout: post
 title: Como Instalar o Pycharm no Ubuntu 20.04
-subtitle: Instalando o Pycharm facilmente no Ubuntu 20.04
+subtitle: Instalando o Pycharm facilmente no Ubuntu 20.04.
 description: Nesse pequeno Tutorial iremos aprender a instalar de maneira fácil o Pycharm no Ubuntu 20.04.
 image: https://res.cloudinary.com/dlpu1d2ml/image/upload/v1641828896/enghash/pycharm_u9lrc1.png
 optimized_image: https://res.cloudinary.com/dlpu1d2ml/image/upload/c_scale,w_380/v1641828896/enghash/pycharm_u9lrc1.png
@@ -50,11 +50,11 @@ Após a instalação terminar, abra o Pycharn executando o seguinte comando no t
 ```shell
 pycharm-community
 
-OU
+ou
 
 pycharm-professional
 
-OU
+ou
 
 pycharm-educational
 ```

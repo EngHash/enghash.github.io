@@ -39,7 +39,7 @@ pip3 --version
 
 Se nenhuma dessas duas opções funcionarem, você deve instalar o pip em seu Sistema Operacional.
 
-## **Instalar o pip para o Python 2**
+## **Instalar o pip para o Python2**
 
 Rode o seguinte comando no seu Terminal:
 
@@ -58,7 +58,7 @@ A saida do comando ACIMA será algo parecido com esse:
 pip 20.2.4 from /home/user/.local/lib/python2.7/site-packages/pip (python 2.7)
 ```
 
-## **Instalar o pip para o Python 3**
+## **Instalar o pip para o Python3**
 
 Rode o seguinte comando no seu Terminal:
 
@@ -67,7 +67,6 @@ sudo apt install python3-pip
 ```
 
 verificar se foi realmente instalado
-
 
 ```shell
 pip3 --version
@@ -86,7 +85,7 @@ Tendo verificado se o pip está instalado em seu Sistema Operacional, agora pode
 para temos acesso as funcionalidades, devemos instala-la utilizando o gerencioador de arquivos que instalamos na etapa anterior, para isso digite o seguinte código em seu terminal:
 
 
-## **Instalar virtualenv para o Python 2**
+## **Instalar virtualenv para o Python2**
 
 Rode o seguinte código em seu terminal:
 
@@ -108,7 +107,7 @@ virtualenv 20.4.2 from /home/usr/.local/lib/python2.7/site-packages/virtualenv/\
 
 ```
 
-## **Instalar virtualenv para o Python 3**
+## **Instalar virtualenv para o Python3**
 
 Rode o seguinte código em seu terminal:
 

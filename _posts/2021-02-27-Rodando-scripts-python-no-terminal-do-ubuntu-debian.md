@@ -1,8 +1,8 @@
 ---
 date: 2021-02-27 12:26:40
 layout: post
-title: Executando Códigos Python no Terminal do Ubuntu, Debian e Derivados
-subtitle: Como executar códigos pelo terminal do Ubuntu, Debian e Derivados
+title: Executando Códigos Python no Terminal do Ubuntu, Debian e Derivados.
+subtitle: Como executar códigos pelo terminal do Ubuntu, Debian e Derivados.
 description: Hoje vamos aprender a executar códigos pelo terminal do Ubuntu, Debian e seus derivados.
 image: https://res.cloudinary.com/dlpu1d2ml/image/upload/v1641737039/enghash/terminal_ufdzbj.png
 optimized_image: https://res.cloudinary.com/dlpu1d2ml/image/upload/c_scale,w_380/v1641737039/enghash/terminal_ufdzbj.png
@@ -12,6 +12,7 @@ tags:
   - python
   - debian
   - linux
+  - Terminal
   - ubuntu
 
 author: oseiasfarias

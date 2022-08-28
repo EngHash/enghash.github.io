@@ -23,7 +23,7 @@ Para roda seus scripts python no Debian ou Ubuntu e seus derivados é preciso te
 <iframe width="100%" height="440" src="https://www.youtube.com/embed/CGf-l0ElRFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-para instalar o python é muito simples, basta abrir o terminal do Ubuntu ou Debian e digitar o comando abaixo.
+Para instalar o python é muito simples, basta abrir o terminal do Ubuntu ou Debian e digitar o comando abaixo.
 
 ```shell
 sudo apt install python3
@@ -55,7 +55,7 @@ sudo apt install python3-pip
 
 ## **Executando o seu primeiro código python no terminal Ubuntu\Debian**
 
-agora vamos rodar seu primeiro programa no seu terminal, para isso siga os passos a seguir.
+Agora vamos rodar seu primeiro programa no seu terminal, para isso siga os passos a seguir.
 
 1° Abra seu termial
 2° digite o seguinte comando no seu terminal

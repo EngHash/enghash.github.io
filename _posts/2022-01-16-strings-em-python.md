@@ -2,7 +2,7 @@
 date: 2022-01-16 12:36:40
 layout: post
 title: Strings em Python
-subtitle: O que são Strings no Python e como usá-las
+subtitle: O que são Strings no Python e como usá-las.
 description: Hoje vamos entender o funcionamento e como escrever Strings em Python.
 image: https://res.cloudinary.com/dlpu1d2ml/image/upload/v1642305152/enghash/str_cmkjcl.png
 optimized_image: https://res.cloudinary.com/dlpu1d2ml/image/upload/c_scale,w_380/v1642305152/enghash/str_cmkjcl.png
@@ -11,6 +11,7 @@ optimized_image: https://res.cloudinary.com/dlpu1d2ml/image/upload/c_scale,w_380
 category: python
 tags:
   - python
+  - string
   - pycharm
 
 author: oseiasfarias

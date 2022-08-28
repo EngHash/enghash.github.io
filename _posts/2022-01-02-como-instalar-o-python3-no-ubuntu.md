@@ -10,6 +10,7 @@ optimized_image: https://res.cloudinary.com/dlpu1d2ml/image/upload/c_scale,w_380
 category: code
 tags:
   - python
+  - python10
   - debian
   - linux
   - ubuntu

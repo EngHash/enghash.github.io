@@ -1,5 +1,5 @@
 ---
-date: 20223-0120 11:30:00
+date: 2023-01-20 11:30:00
 layout: post
 title: Criando Virtualenv e instalando o OpenCV Python
 subtitle: Criando ambiente exclusivo para seus estudos com OpenCV Python.

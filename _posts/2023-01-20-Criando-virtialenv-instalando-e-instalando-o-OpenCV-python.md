@@ -17,9 +17,9 @@ tags:
 author: oseiasfarias
 ---
 
-Aprenda a programar com Python:
+Curso Gratuito de OpenCV Python:
 
-<iframe width="100%" height="440" src="https://www.youtube.com/embed/videoseries?list=PL5jigOsyxDtCGEdY1I0Ymmv4lOyUkWbm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="440" src="https://www.youtube.com/embed/videoseries?list=PL5jigOsyxDtBQaozTB1JAX-yTRwzdbe5h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 O Python é uma linguagem de programação de alto nível de abstração, isso significa que você não precisa aprender técnicas complexas de programação para se aventurar nessa linguagem, no entrando o Python possui uma grande gama de bibliotecas que podem ser usadas para diferentes aplicações é fazer o gerenciamento de cada uma delas pode ser complicado caso você use apenas o python padrão da sua maquina, pensando nisso, os desenvolvedores da linguagem criaram os ambientes virtuais, que possibilitam ter um interpretador especifico para cada aplicação se que eles interfiram uns nos outros, esse ambientes são chamados de virtualenv.

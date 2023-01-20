@@ -4,8 +4,8 @@ layout: post
 title: Criando Virtualenv e instalando o OpenCV Python
 subtitle: Criando ambiente exclusivo para seus estudos com OpenCV Python.
 description: Nesse tutorial você irá aprender como criar um ambiente virtual python para instalar o OpenCV Python.
-image: https://res.cloudinary.com/dlpu1d2ml/image/upload/v1674224769/enghash/demo_kbwvvw.png
-optimized_image: https://res.cloudinary.com/dlpu1d2ml/image/upload/c_scale,w_380/v1674224769/enghash/str_cmkjcl.png
+image: https://res.cloudinary.com/dlpu1d2ml/image/upload/v1674225546/enghash/post_pythonaltas_yz34hz.png
+optimized_image: https://res.cloudinary.com/dlpu1d2ml/image/upload/c_scale,w_380/v1674225546/enghash/str_cmkjcl.png
 
 
 category: python
@@ -63,7 +63,7 @@ Pronto, agora você possui o OpenCV instalado em seu ambiente virtual.
 para verificar se esta corretamente instalado, basta executar o interpretador e importar o opencv, omo mostrado abaixo.
 
 <div>
-<img src="https://res.cloudinary.com/dlpu1d2ml/image/upload/v1674224769/enghash/demo_kbwvvw.png"/>
+<img src="https://res.cloudinary.com/dlpu1d2ml/image/upload/v1674225546/enghash/post_pythonaltas_yz34hz.png"/>
 </div>
 
 Executando o Python no terminal, digite:
